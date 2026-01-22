@@ -18,7 +18,7 @@ export default function Header() {
         {/**logo */}
         <Link href="/">
           <h1 className="text-4xl font-semibold">
-            Maurine <span className="text-[#00ff99]">.</span>
+            k<span className="text-[#00ff99]">.</span>
           </h1>
         </Link>
         {/**desktop nav */}
